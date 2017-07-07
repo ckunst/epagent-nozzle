@@ -11,8 +11,8 @@ import (
 	"io/ioutil"
 
     "github.com/cloudfoundry/sonde-go/events"
-    "github.com/tmcgaughey/epagent-nozzle/metrics"
-    "github.com/tmcgaughey/epagent-nozzle/processors"
+    "github.com/ckunst/epagent-nozzle/metrics"
+    "github.com/ckunst/epagent-nozzle/processors"
 )
 
 const slowConsumer = "slowConsumerAlert" 

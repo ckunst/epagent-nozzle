@@ -4,7 +4,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/tmcgaughey/epagent-nozzle/metrics"
+	"github.com/ckunst/epagent-nozzle/metrics"
 	"github.com/cloudfoundry/sonde-go/events"
 )
 
