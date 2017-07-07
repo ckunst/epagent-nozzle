@@ -6,9 +6,9 @@ import (
 	"flag"
 	"log"
 
-	"github.com/tmcgaughey/epagent-nozzle/apmfirehosenozzle"
-	"github.com/tmcgaughey/epagent-nozzle/nozzleconfig"
-	"github.com/tmcgaughey/epagent-nozzle/uaatokenfetcher"
+	"github.com/ckunst/epagent-nozzle/apmfirehosenozzle"
+	"github.com/ckunst/epagent-nozzle/nozzleconfig"
+	"github.com/ckunst/epagent-nozzle/uaatokenfetcher"
 )
 
 func main() {
