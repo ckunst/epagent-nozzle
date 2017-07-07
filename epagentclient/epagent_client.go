@@ -10,7 +10,7 @@ import (
 	"log"
 	"io/ioutil"
 
-    "github.com/cloudfoundry/noaa/events"
+    "github.com/cloudfoundry/sonde-go/events"
     "github.com/tmcgaughey/epagent-nozzle/metrics"
     "github.com/tmcgaughey/epagent-nozzle/processors"
 )

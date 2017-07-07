@@ -4,7 +4,7 @@ import (
 	"strconv"
 
 	"github.com/tmcgaughey/epagent-nozzle/metrics"
-	"github.com/cloudfoundry/noaa/events"
+	"github.com/cloudfoundry/sonde-go/events"
 )
 
 type ContainerMetricProcessor struct{}

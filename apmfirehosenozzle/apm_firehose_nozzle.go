@@ -5,7 +5,7 @@ import (
 	"github.com/tmcgaughey/epagent-nozzle/epagentclient"
 	"github.com/tmcgaughey/epagent-nozzle/nozzleconfig"
 	"github.com/cloudfoundry/noaa"
-	"github.com/cloudfoundry/noaa/events"
+	"github.com/cloudfoundry/sonde-go/events"
 	"log"
 	"time"
 )
